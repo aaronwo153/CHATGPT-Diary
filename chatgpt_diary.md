@@ -98,8 +98,8 @@ pygame.quit()
 ChatGPT told me to have random keys assigned to the keyboard, which differed from my original approach of using an organized keybind system.
 ## 5. **Reflection on Changes**
 ChatGPT's suggestions were helpful as it layed the base code for the game. Most of the code made sense, especially the note sound key binding part.
-ChatGPT also recommended that I make the piano tiles turn gray when clicked idicating what key was being pressed, which I then implemented into the code.
+ChatGPT also recommended that I make the piano tiles turn gray when clicked idicating what key was being pressed, which I then implemented into the code. I also made audio files so that the keys actually can correspond to a sound.
 ## 6. **Testing and Results**
 After finalizing the changes, my code was working smoothly besides the color changing keys. The results had the piano playing sounds when pressed but didn't have the keys turning gray for a moment when pressed. So I went to ChatGPT looking for new code that made that work. After fixing my code to ChatGPT's new suggestion, it worked out.
 ## 7. **What Did I Learn?**
-Using ChatGPT for this project taught me how to make a user interface in pygame. I was able to create the piano keys with this new information. I also was struggling with using a function I previously defined, but now I know how to use the functions in later parts of the code.
+Using ChatGPT for this project taught me how to make a user interface in pygame. I was able to create the piano keys with this new information. On the other hand, I learned to create audio files and use it to correspond to keys in the original code. I also was struggling with using a function I previously defined, but now I know how to use the functions in later parts of the code.
